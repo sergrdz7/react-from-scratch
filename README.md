@@ -25,7 +25,7 @@
 ## Copying into your files
 1. Now were going to simply copy and paste from this repository's files into the files we just created.
 2. First copy this [webpack.config.js](https://github.com/sergrdz7/react-from-scratch/blob/master/webpack.config.js) file into your own webpack.config.file to set up webpack's configuration.
-3. Now we have to put some content into the files so copy the [App.js](https://github.com/sergrdz7/react-from-scratch/blob/master/src/App.js), [index.html](https://github.com/sergrdz7/react-from-scratch/blob/master/index.html), and [webpack.config.js](https://github.com/sergrdz7/react-from-scratch/blob/master/webpack.config.js) content into your own.
+3. Now we have to put some content into the files so copy the [App.js](https://github.com/sergrdz7/react-from-scratch/blob/master/src/App.js) and [index.html](https://github.com/sergrdz7/react-from-scratch/blob/master/index.html) content into your own.
 4. In simple terms, these files are being linked together by the exporting and import statements which pass on the App component to the index.html file. You can edit the App.js file to change the component or create your own.
 5. For our browsers to render this app, we must intall webpack as well. Run `sudo npm install -g webpack` to install grobally in our machines. Enter your password once again.
 6. We can now run webpack in watch mode to check if there are any issues `webpack -w`. If there aren't any issues you are ready to go.
