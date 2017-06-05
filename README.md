@@ -34,4 +34,4 @@ Now you can edit/create react components. Open your `index.html` file in your br
  * Make sure all of your files are correctly linked
  * Make sure to call your  `build/bundle.js` script in `index.html` inside the body tags.
  * To exit the webpack watch window in terminal press control c `^C`
-8. **Or you could just clone this whole repo and install npm and webpack but that's no fun 😎😎😎 **
+8. **Or you could just clone this whole repo and install npm and webpack but that's no fun 😎😎😎**
